@@ -2,6 +2,7 @@
 pragma solidity ^0.8.25;
 
 contract ProxyV1 {
+
     uint256 public count;
     address public implem;
 
@@ -27,7 +28,5 @@ contract ProxyV1 {
         assembly {
             return(add(returnData, 32), mload(returnData))
         }
-    }
-
-    
+    }   
 }
