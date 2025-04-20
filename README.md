@@ -64,7 +64,7 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team ❤️
 
 Developers
-| [<img src="https://github.com/YourGitHubUsername.png?size=85" width=85><br><sub>Jules</sub>](https://github.com/YourGitHubUsername) |
+| [<img src="https://avatars.githubusercontent.com/u/146731380?v=4" width=85><br><sub>Jules Lordet</sub>](https://github.com/L3yserEpitech) |
 | :---: |
 
 <h2 align=center>
