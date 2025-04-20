@@ -54,16 +54,6 @@ forge test -vvv
    - `CounterV1.sol` & `CounterV2.sol`: Sample implementations
    - `ProxyV1.t.sol` & `ProxyV2.t.sol`: Tests demonstrating proxy behavior and upgrades
 
-#### Deploy Your Own Proxy
-
-Deploy to a local network:
-```bash
-# Start a local node
-anvil
-
-# Deploy the implementation and proxy
-forge script script/Deploy.s.sol --rpc-url http://localhost:8545 --broadcast
-```
 
 ## Get involved
 
